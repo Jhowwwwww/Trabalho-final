@@ -13,4 +13,4 @@ Trabalho final Dispensador de alcool automático
 
 
 
-<a href="codigo.ino">Clique aqui o para código</a>
+<a href="codigo.ino.ino">Clique aqui o para código</a>
